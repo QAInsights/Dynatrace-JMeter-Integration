@@ -16,5 +16,9 @@ Execute the test. Dynatrace headers will be added to each sampler and for each t
 
 e.g. `X-Dynatrace-Test: SI=JMeter5.4;LSN=Dynatrace-Tagging.jmx;TSN=HTTP Request 1;LTN=No name for Load Test;VU=Thread Group-0;`
 
+## Compatibility
+
+Tested with Apache JMeter 5.4.2.
+
 # 🙏 Inspired from
 [this repo](https://github.com/grabnerandi/simplenodeservice)
